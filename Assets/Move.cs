@@ -7,6 +7,7 @@ public class Move : MonoBehaviour
     Rigidbody rb;
     float x, y;
     public float speed;
+    public int i=0;
     // Start is called before the first frame update
     void Start()
     {
